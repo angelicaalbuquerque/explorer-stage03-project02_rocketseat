@@ -26,7 +26,7 @@
 
 ## 📚 Sobre
 
-O projeto "treine.me" é um desafio feito durante a formação em desenvolvimento _Fullstack_ da <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a>, chamada de _Explorer_.
+Projeto feito durante a formação em desenvolvimento _Fullstack_ da <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a>, chamada de _Explorer_.
 
 A prática é a criação de uma página simples estruturada durante o _Stage 03 - "Avançando no HTML e CSS"_ da formação citada acima.
 
@@ -48,7 +48,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🎨 Layout
 
-Você pode visualizar o layout do projeto através [deste link](https://www.figma.com/file/rkDOHGPwwFtBNqEdHSuQPd/Projeto-02---Explorer?node-id=0%3A1), no [Figma](http://figma.com/). É preciso ter uma conta na plataforma para acessá-lo.
+Você pode visualizar o layout do projeto através [deste link](https://www.figma.com/file/ubjetYdEuovQMCIYkmkcYJ/Explorer-Stage-03-Projeto-02-Copy?fuid=850516793117994371), no [Figma](http://figma.com/). É preciso ter uma conta na plataforma para acessá-lo.
 
 ## 📬 Entre em contato!
 
